@@ -1,0 +1,1 @@
+# quarkus-resteasy-exception-handler
